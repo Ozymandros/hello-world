@@ -1,2 +1,2 @@
 # hello-world
-lorem ipsum dolor
+lorem ipsum dolor: 
